@@ -24,7 +24,7 @@ and returns the deciphered string so you can show the
 commander proof that these minions are talking about
 "Lance & Janice" instead of doing their jobs.
 
-##Test cases
+## Test cases
 
 ### Inputs:
      (string) s = "wrw blf hvv ozhg mrtsg'h vkrhlwv?"
