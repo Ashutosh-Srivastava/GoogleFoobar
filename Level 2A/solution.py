@@ -1,3 +1,10 @@
+# This was my solution submitted and passed all the test cases
+'''
+Author: Ashutosh Srivastava
+Python3 solution
+'''
+
+
 def solution(l,t):
   for i in range(0,len(l)):
     sum_=l[i]
