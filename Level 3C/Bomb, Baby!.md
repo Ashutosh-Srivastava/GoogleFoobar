@@ -35,7 +35,7 @@ solution would be "1". However, if M = "2" and F = "4", it would not be possible
 ### Input:
       solution.solution('4', '7')
 ### Output:
-    ``4
+      4
 
 ### Input:
       solution.solution('2', '1')
